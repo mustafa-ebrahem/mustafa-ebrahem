@@ -6,7 +6,7 @@
 
 - 🛠️ Skills: Python, SQL, Bash, Git, API Integration, Data Analysis, Tkinter, Flask, OpenCV
 
-- 🌱 Currently: 100 Days of Code Python Bootcamp, AWS Cloud Computing, Contributing to open-source
+- 🌱 Currently: 100 Days of Code Python Bootcamp, AWS Cloud Computing
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-ebrahem) | 📧 mustafa.ebrahem@outlook.com
 
