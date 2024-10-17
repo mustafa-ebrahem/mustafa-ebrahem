@@ -1,6 +1,6 @@
 # Mostafa Ibrahim | Python Developer 🐍
 
-- 🎓 CS Student at Future Academy | 💼 Intern experience at Zeina Company & Uneeq Interns
+- 🎓 CS Student at Future Academy | 💼 Backend Developer at DataSoft
 
 - 🚀 Passionate about data-driven solutions and application development using Python
 
