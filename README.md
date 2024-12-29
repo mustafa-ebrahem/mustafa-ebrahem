@@ -1,4 +1,4 @@
-# Mostafa Ibrahim | Python Developer 🐍
+# Mostafa Ibrahim | Developer and Aspiring Devops Engineer 🐍
 
 - 🎓 CS Student at Future Academy | 💼 Backend Developer at DataSoft
 
