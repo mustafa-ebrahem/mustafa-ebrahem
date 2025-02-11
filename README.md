@@ -13,12 +13,3 @@
 - ⚡ Fun fact: Automated pizza receipt organization and sending using Python, OpenCV!
 
 
-<table><tr><td valign="top" width="60%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mustafa-ebrahem&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ebrahem&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
