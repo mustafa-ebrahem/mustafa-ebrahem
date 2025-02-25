@@ -4,7 +4,7 @@
 
 - 🚀 Passionate about data-driven solutions, application development and Learning
 
-- 🛠️ Skills: Python, Bash, Git, API Integration, Data Analysis, Tkinter, Flask
+- 🛠️ Skills: Python, Java, Javascript, Linux, Bash, Git, API development, Tkinter, Flask
 
 - 🌱 Currently: 100 Days of Code Python Bootcamp, AWS Cloud Computing
 
