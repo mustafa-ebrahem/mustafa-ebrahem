@@ -1,12 +1,10 @@
 # Mostafa Ibrahim | Developer and Aspiring Devops Engineer 🐍
 
-- 🎓 CS Student at Future Academy | 💼 Backend Developer at DataSoft
+- 💼 Backend Developer | 🎓 CS Graduate from Future Academy
 
-- 🚀 Passionate about data-driven solutions, application development and Learning
+- 🚀 Passionate about data-driven solutions, application development, Learning and teaching
 
-- 🛠️ Skills: Python, Java, Javascript, Linux, Bash, Git, API development, Tkinter, Flask
-
-- 🌱 Currently: 100 Days of Code Python Bootcamp, AWS Cloud Computing
+- 🛠️ Skills: Python, Java, Javascript, Linux, Bash, Git, API development and more
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-ebrahem) | 📧 mustafa.ebrahem@outlook.com
 
