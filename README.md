@@ -1,6 +1,6 @@
 # Mostafa Ibrahim | Developer and Aspiring Devops Engineer 🐍
 
-- 💼 Backend Developer | 🎓 CS Graduate from Future Academy
+- 💼 Backend Developer | 🎓 CS Graduate from HIgher Future Institute for Technological Studies
 
 - 🚀 Passionate about data-driven solutions, application development, Learning and teaching
 
